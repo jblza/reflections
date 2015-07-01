@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
      it adds the metadata in order to track the repository
+	 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+     it allows for separation between files ready to be committed and others.  it give flexability.
